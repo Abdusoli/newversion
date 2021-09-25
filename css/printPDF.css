@@ -1,0 +1,48 @@
+    div.mydiv-menu{
+            text-indent: 40px;
+        }
+
+        .row-beginning p{
+            text-indent: 40px;
+        }
+
+        .my-below p{
+            text-indent: 40px;
+            margin-bottom: 3px;
+        }
+
+        .my-row3 p{
+            text-indent: 40px;
+        }
+
+        .mydiv-menu p{
+            margin:0;
+        }
+
+        .my-row p{
+            margin:0;
+        }
+
+        .my-row5 {
+            margin-top:5px;
+        }
+
+        .my-row-mid {
+            margin-top:15px;
+        }
+
+        .table-condensed{
+          font-size: 10px;
+        }
+
+        .my-row4 p{
+            margin-bottom: 0px;
+        }
+
+        h6{
+            font-size:13px;
+        }
+
+        p{
+            font-size: 11px;
+        }
